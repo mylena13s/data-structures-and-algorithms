@@ -1,20 +1,10 @@
-# Python Data structures: Fundamentals 
+# Estruturas de Dados em Python: Fundamentos
 
-_Welcome to my Python Data structures repository_ :)
+Bem-vindo ao meu repositório de Estruturas de Dados em Python. Este repositório é uma coleção dos meus estudos e implementações de várias estruturas de dados e algoritmos em Python.
 
-This repository is a collection of my studies and implementations of various data structures and algorithms in Python. Whether you're a beginner learning the basics or an experienced programmer looking to refresh your knowledge, you'll find something valuable here!
+Tópicos:
 
-### Topics
-
-- fundamental Python concepts and syntax
-- data structures as lists, dictionaries, sets, and tuples
-- Learn about sorting algorithms, and searching algorithms
-- Put your skills to the test with coding exercises and projects designed to reinforce your understanding
-  
-
-<p align="left">
-  <img src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/08/giphy-5.gif" alt="Additional image" width="150" />
-</p>
-
-
-
+- conceitos fundamentais e sintaxe do Python
+- estruturas de dados como listas, dicionários, conjuntos e tuplas
+- Algoritmos de ordenação e algoritmos de busca
+- Exercícios de código e projetos 
